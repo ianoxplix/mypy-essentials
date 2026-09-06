@@ -516,6 +516,8 @@
   * [Fuzzy Operations](fuzzy_logic/fuzzy_operations.py)
   * [Fuzzy Set Operations](fuzzy_logic/fuzzy_set_operations.py)
 
+## [Generic Mutation](/generic%20mutation.py)
+
 ## [Genetic Algorithm](genetic_algorithm)
   * [Basic String](genetic_algorithm/basic_string.py)
 
